@@ -80,3 +80,8 @@ Configure OpenLDAP for Authentication Sonatype Nexus as shown in the screenshot 
 ![image](https://github.com/user-attachments/assets/99015568-3ea0-4536-a53c-6fd697344aa2)
 ![image](https://github.com/user-attachments/assets/05369024-9568-4d28-b0b1-da2755f1d7f5)
 ![image](https://github.com/user-attachments/assets/a6862157-6f6f-4577-b6db-8c16e8b1ab10)
+
+Now to provide Administrator privilege to OpenLDAP user dexter follow the below steps.
+
+![image](https://github.com/user-attachments/assets/22307996-3e97-4a2f-8b19-ee19b05f9cad)
+![image](https://github.com/user-attachments/assets/bac67c91-7cb2-4616-b5ac-756dc863acc8)
