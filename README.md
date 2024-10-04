@@ -85,3 +85,16 @@ Now to provide Administrator privilege to OpenLDAP user dexter follow the below 
 
 ![image](https://github.com/user-attachments/assets/22307996-3e97-4a2f-8b19-ee19b05f9cad)
 ![image](https://github.com/user-attachments/assets/bac67c91-7cb2-4616-b5ac-756dc863acc8)
+
+Do the installation of plugins SonarQube-Scanner, Nexus Artifact Uploader and Pipeline Utility Step as shown in the screenshot attached below.
+
+![image](https://github.com/user-attachments/assets/9ed5824b-3189-46f2-8ca3-d404cc3111d3)
+
+The two Jenkins Job has been as shown in the screenshot attached below.
+
+![image](https://github.com/user-attachments/assets/87deb1e0-c383-44ef-8465-6ccba516db0e)
+
+After running the Jenkins Job screenshot of SonarQube, Nexus and ArgoCD is as shown in the screenshot attached below.
+
+![image](https://github.com/user-attachments/assets/ba35ca31-026b-4a77-9f9b-13709132db72)
+![image](https://github.com/user-attachments/assets/bc4565ab-52dc-4b72-a1e3-a0a76cfcb3fa)
