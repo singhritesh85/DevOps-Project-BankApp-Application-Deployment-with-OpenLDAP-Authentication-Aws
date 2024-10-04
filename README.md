@@ -97,4 +97,39 @@ The two Jenkins Job has been as shown in the screenshot attached below.
 After running the Jenkins Job screenshot of SonarQube, Nexus and ArgoCD is as shown in the screenshot attached below.
 
 ![image](https://github.com/user-attachments/assets/ba35ca31-026b-4a77-9f9b-13709132db72)
+![image](https://github.com/user-attachments/assets/e110e3a8-5afd-410d-8961-36b696ce22bf)
 ![image](https://github.com/user-attachments/assets/bc4565ab-52dc-4b72-a1e3-a0a76cfcb3fa)
+![image](https://github.com/user-attachments/assets/10caca58-ee3f-4cde-bd35-6683ea0a5c9a)
+![image](https://github.com/user-attachments/assets/9a3748ee-fc4c-40fb-83dc-2266eb936dff)
+
+Entry in Route53 is as shown in the screenshot attached below.
+
+![image](https://github.com/user-attachments/assets/f3fdc480-4ee2-4e8a-a4b3-c6faff58eb6a)
+
+Finally you can access the Bank Application as shown in the screenshot attached below.
+
+![image](https://github.com/user-attachments/assets/73f2f526-bb5e-43e8-8b8e-1d7414cc806c)
+![image](https://github.com/user-attachments/assets/e84c3cb9-886c-48f1-80f1-7cdb99c6ab38)
+
+
+```
+OpenJDK Docker Image is depricated so in this project eclipse-temurin docker image has been used as a base image in the Dockerfile. 
+```
+
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+```
+Source Code:-  https://github.com/singhritesh85/Bank-App.git
+```
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+<br><br/>
+```
+Reference:-  https://github.com/Goldencat98/Bank-App.git
