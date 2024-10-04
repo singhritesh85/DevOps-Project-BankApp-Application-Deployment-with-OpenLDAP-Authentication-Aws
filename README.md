@@ -1,1 +1,1 @@
-# DevOps-Project-MultiTier-Application-Deployment-with-OpenLDAP-Authentication-Aws
+# DevOps-Project-MultiTier-Bank-Application-with-OpenLDAP-Authentication-Aws
